@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aade967_77ba0fe3",
+        "filename": "msm8956.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 1000043
+      },
+      "writtenOn": "2017-01-04T15:50:48Z",
+      "side": 1,
+      "message": "Kill it with fire, we don\u0027t include aosp messaging app",
+      "range": {
+        "startLine": 185,
+        "startChar": 0,
+        "endLine": 187,
+        "endChar": 13
+      },
+      "revId": "940dbfc68c5151926405b9885109866fb2d6399c",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
