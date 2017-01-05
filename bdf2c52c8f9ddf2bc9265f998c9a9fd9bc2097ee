@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aade967_77044f7e",
+        "filename": "slim.dependencies",
+        "patchSetId": 5
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000043
+      },
+      "writtenOn": "2017-01-05T12:40:33Z",
+      "side": 1,
+      "message": "This is included in our manifest, nkt needed here.",
+      "revId": "bdf2c52c8f9ddf2bc9265f998c9a9fd9bc2097ee",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
