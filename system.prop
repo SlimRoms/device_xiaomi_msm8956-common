@@ -39,9 +39,6 @@ persist.dpm.nsrm.bkg.evt=3955
 # Dex2oat threads for faster app installation
 ro.sys.fw.dex2oat_thread_count=4
 
-# FRP
-ro.frp.pst=/dev/block/bootdevice/by-name/config
-
 # GPS
 persist.gps.qc_nlp_in_use=1
 persist.loc.nlp_name=com.qualcomm.location
